@@ -1,0 +1,4 @@
+﻿# Ignored files
+server.ps1
+start-server.bat
+setup_git_and_push.ps1
